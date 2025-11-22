@@ -18,7 +18,7 @@ It also includes **email verification via Nodemailer**, JWT-based authentication
 
 | Layer | Technology |
 |-------|-------------|
-| Frontend | React.js, Vite, Tailwind CSS |
+| Frontend | React.js, Tailwind CSS |
 | Backend | Node.js, Express.js |
 | Database | MongoDB (Mongoose ODM) |
 | Authentication | JWT (Access + Refresh tokens) |
